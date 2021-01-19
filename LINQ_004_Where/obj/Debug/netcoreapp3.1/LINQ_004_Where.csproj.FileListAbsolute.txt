@@ -1,0 +1,13 @@
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\obj\Debug\netcoreapp3.1\LINQ_004_Where.csprojAssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\obj\Debug\netcoreapp3.1\LINQ_004_Where.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\obj\Debug\netcoreapp3.1\LINQ_004_Where.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\obj\Debug\netcoreapp3.1\LINQ_004_Where.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\bin\Debug\netcoreapp3.1\LINQ_004_Where.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\bin\Debug\netcoreapp3.1\LINQ_004_Where.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\bin\Debug\netcoreapp3.1\LINQ_004_Where.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\bin\Debug\netcoreapp3.1\LINQ_004_Where.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\bin\Debug\netcoreapp3.1\LINQ_004_Where.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\bin\Debug\netcoreapp3.1\LINQ_004_Where.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\obj\Debug\netcoreapp3.1\LINQ_004_Where.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\obj\Debug\netcoreapp3.1\LINQ_004_Where.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_004_Where\obj\Debug\netcoreapp3.1\LINQ_004_Where.genruntimeconfig.cache

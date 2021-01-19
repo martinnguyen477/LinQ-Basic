@@ -1,0 +1,13 @@
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\bin\Debug\netcoreapp3.1\LINQ_005_OrderBy.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\bin\Debug\netcoreapp3.1\LINQ_005_OrderBy.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\bin\Debug\netcoreapp3.1\LINQ_005_OrderBy.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\bin\Debug\netcoreapp3.1\LINQ_005_OrderBy.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\bin\Debug\netcoreapp3.1\LINQ_005_OrderBy.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\bin\Debug\netcoreapp3.1\LINQ_005_OrderBy.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\obj\Debug\netcoreapp3.1\LINQ_005_OrderBy.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\obj\Debug\netcoreapp3.1\LINQ_005_OrderBy.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\obj\Debug\netcoreapp3.1\LINQ_005_OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\obj\Debug\netcoreapp3.1\LINQ_005_OrderBy.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\obj\Debug\netcoreapp3.1\LINQ_005_OrderBy.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\obj\Debug\netcoreapp3.1\LINQ_005_OrderBy.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_005_OrderBy\obj\Debug\netcoreapp3.1\LINQ_005_OrderBy.csprojAssemblyReference.cache

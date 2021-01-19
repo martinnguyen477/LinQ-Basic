@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tY4+epIDvmVsW7CaHN1YRzjBYsSgQzu8rFMZA8bvHuQ7SfYJvy76w2cDDGQcEbXSN9bLGUJ1wvQXeFAm3QIEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_CLEN 002\\LINQ_CLEN 002.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

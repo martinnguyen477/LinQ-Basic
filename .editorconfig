@@ -1,0 +1,19 @@
+﻿[*.cs]
+
+# Default severity for analyzer diagnostics with category 'StyleCop.CSharp.OrderingRules'
+dotnet_analyzer_diagnostic.category-StyleCop.CSharp.OrderingRules.severity = none
+
+# Default severity for analyzer diagnostics with category 'Style'
+dotnet_analyzer_diagnostic.category-Style.severity = silent
+
+# IDE0040: Add accessibility modifiers
+dotnet_style_require_accessibility_modifiers = omit_if_default:silent
+
+# Default severity for analyzer diagnostics with category 'StyleCop.CSharp.DocumentationRules'
+dotnet_analyzer_diagnostic.category-StyleCop.CSharp.DocumentationRules.severity = silent
+
+# IDE0065: Misplaced using directive
+dotnet_diagnostic.IDE0065.severity = none
+
+# SA0001: XML comment analysis is disabled due to project configuration
+dotnet_diagnostic.SA0001.severity = suggestion
