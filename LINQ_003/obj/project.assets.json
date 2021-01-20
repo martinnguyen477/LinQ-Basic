@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_003\\LINQ_003.csproj",
+      "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj",
       "projectName": "LINQ_003",
-      "projectPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_003\\LINQ_003.csproj",
+      "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj",
       "packagesPath": "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_003\\obj\\",
+      "outputPath": "F:\\Project\\LinQ-Basic\\LINQ_003\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nguyen Quoc Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\bin\Debug\netcoreapp3.1\LINQ_Group.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\bin\Debug\netcoreapp3.1\LINQ_Group.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\bin\Debug\netcoreapp3.1\LINQ_Group.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\bin\Debug\netcoreapp3.1\LINQ_Group.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\bin\Debug\netcoreapp3.1\LINQ_Group.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\bin\Debug\netcoreapp3.1\LINQ_Group.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\obj\Debug\netcoreapp3.1\LINQ_Group.csprojAssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\obj\Debug\netcoreapp3.1\LINQ_Group.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\obj\Debug\netcoreapp3.1\LINQ_Group.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\obj\Debug\netcoreapp3.1\LINQ_Group.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\obj\Debug\netcoreapp3.1\LINQ_Group.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\obj\Debug\netcoreapp3.1\LINQ_Group.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Group\obj\Debug\netcoreapp3.1\LINQ_Group.genruntimeconfig.cache

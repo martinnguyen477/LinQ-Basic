@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_004_Where\\LINQ_004_Where.csproj": {}
+    "F:\\Project\\LinQ-Basic\\LINQ_004_Where\\LINQ_004_Where.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_004_Where\\LINQ_004_Where.csproj": {
+    "F:\\Project\\LinQ-Basic\\LINQ_004_Where\\LINQ_004_Where.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_004_Where\\LINQ_004_Where.csproj",
+        "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_004_Where\\LINQ_004_Where.csproj",
         "projectName": "LINQ_004_Where",
-        "projectPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_004_Where\\LINQ_004_Where.csproj",
+        "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_004_Where\\LINQ_004_Where.csproj",
         "packagesPath": "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LINQ_CLEN\\LINQ_004_Where\\obj\\",
+        "outputPath": "F:\\Project\\LinQ-Basic\\LINQ_004_Where\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nguyen Quoc Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",

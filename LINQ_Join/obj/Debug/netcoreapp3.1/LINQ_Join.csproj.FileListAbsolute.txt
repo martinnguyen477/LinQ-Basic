@@ -1,0 +1,12 @@
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\bin\Debug\netcoreapp3.1\LINQ_Join.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\bin\Debug\netcoreapp3.1\LINQ_Join.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\bin\Debug\netcoreapp3.1\LINQ_Join.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\bin\Debug\netcoreapp3.1\LINQ_Join.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\bin\Debug\netcoreapp3.1\LINQ_Join.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\bin\Debug\netcoreapp3.1\LINQ_Join.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\obj\Debug\netcoreapp3.1\LINQ_Join.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\obj\Debug\netcoreapp3.1\LINQ_Join.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\obj\Debug\netcoreapp3.1\LINQ_Join.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\obj\Debug\netcoreapp3.1\LINQ_Join.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\obj\Debug\netcoreapp3.1\LINQ_Join.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_Join\obj\Debug\netcoreapp3.1\LINQ_Join.genruntimeconfig.cache
