@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nb+9H7haZcijE6nBn3/amhYr+SigptXiYnVWY7L+KP9BusPWII0o+YWhegcpnWoedtcpXtXcErg5amNWenQnRQ==",
+  "success": true,
+  "projectFilePath": "F:\\Project\\LinQ-Basic\\LINQ_Select_SelectMany\\LINQ_Select_SelectMany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

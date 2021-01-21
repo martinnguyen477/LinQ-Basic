@@ -45,9 +45,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_CLEN\\LINQ_CLEN 001.csproj",
-      "projectName": "LINQ_CLEN 001",
-      "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_CLEN\\LINQ_CLEN 001.csproj",
+      "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_CLEN\\LINQ_Lambda.csproj",
+      "projectName": "LINQ_Lambda",
+      "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_CLEN\\LINQ_Lambda.csproj",
       "packagesPath": "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\",
       "outputPath": "F:\\Project\\LinQ-Basic\\LINQ_CLEN\\obj\\",
       "projectStyle": "PackageReference",

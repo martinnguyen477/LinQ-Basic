@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_CLEN 001", "LINQ_CLEN\LINQ_CLEN 001.csproj", "{4B4A90A1-CC83-40EA-A0D8-26252CF92A2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Lambda", "LINQ_CLEN\LINQ_Lambda.csproj", "{4B4A90A1-CC83-40EA-A0D8-26252CF92A2C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{14AFFC9C-030C-4167-B60E-ED466A14AF3B}"
 EndProject
@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_004_Where", "LINQ_004_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_005_OrderBy", "LINQ_005_OrderBy\LINQ_005_OrderBy.csproj", "{8661097E-8CE3-462C-83C7-0B43C1032CBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Group", "LINQ_Group\LINQ_Group.csproj", "{888FE662-161E-43D4-B54D-32DC18DB1890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Group", "LINQ_Group\LINQ_Group.csproj", "{888FE662-161E-43D4-B54D-32DC18DB1890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Join", "LINQ_Join\LINQ_Join.csproj", "{F8FAAB72-A465-4E54-A8B1-9BD2BB1254B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Join", "LINQ_Join\LINQ_Join.csproj", "{F8FAAB72-A465-4E54-A8B1-9BD2BB1254B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_GroupJoin", "LINQ_GroupJoin\LINQ_GroupJoin.csproj", "{4FB1123A-ED99-4B02-8A78-357E8E4D8D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Select_SelectMany", "LINQ_Select_SelectMany\LINQ_Select_SelectMany.csproj", "{F70537C9-0935-4FA2-B2F6-6B32D7906A6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +57,14 @@ Global
 		{F8FAAB72-A465-4E54-A8B1-9BD2BB1254B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8FAAB72-A465-4E54-A8B1-9BD2BB1254B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8FAAB72-A465-4E54-A8B1-9BD2BB1254B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB1123A-ED99-4B02-8A78-357E8E4D8D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB1123A-ED99-4B02-8A78-357E8E4D8D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB1123A-ED99-4B02-8A78-357E8E4D8D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB1123A-ED99-4B02-8A78-357E8E4D8D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70537C9-0935-4FA2-B2F6-6B32D7906A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70537C9-0935-4FA2-B2F6-6B32D7906A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70537C9-0935-4FA2-B2F6-6B32D7906A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70537C9-0935-4FA2-B2F6-6B32D7906A6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

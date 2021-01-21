@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace LINQ_Join
 {
@@ -52,11 +53,12 @@ namespace LINQ_Join
 
             IList<Standard> listStandard = new List<Standard>()
             {
-                new Standard() { StandardId = 1, StandardName = "Standard 1" },
-                new Standard() { StandardId = 2, StandardName = "Standard 2" },
-                new Standard() { StandardId = 3, StandardName = "Standard 3" },
+                new Standard() { StandardId = 1, StandardName = "Đẹp Trai" },
+                new Standard() { StandardId = 2, StandardName = "Xinh Gái" },
+                new Standard() { StandardId = 3, StandardName = "OK" },
             };
 
+            // Truy vấn cú pháp phương thức .
             var innerJoin = listStudent.Join(
                 listStandard,
                 student => student.StandardId,
@@ -66,7 +68,25 @@ namespace LINQ_Join
                     StudentName = student.StudentName,
                     StandardName = standard.StandardName,
                 });
+
+            // Truy vấn cú pháp truy vấn.
+            var innerJoin2 = from s in listStudent
+                             join st in listStandard on s.StandardId equals st.StandardId
+                             select new
+                             {
+                                 StudentName = s.StudentName,
+                                 StandardName = st.StandardName,
+                             };
+
+            // Xuất truy vấn cú pháp phương thức.
+            Console.WriteLine("Xuất truy vấn cú pháp phương thức");
             foreach (var obj in innerJoin)
+            {
+                Console.WriteLine("{0} - {1}", obj.StudentName, obj.StandardName);
+            }
+
+            Console.WriteLine("Xuất truy vấn cú pháp truy vấn");
+            foreach (var obj in innerJoin2)
             {
                 Console.WriteLine("{0} - {1}", obj.StudentName, obj.StandardName);
             }
@@ -74,7 +94,9 @@ namespace LINQ_Join
 
         public static void Main(string[] args)
         {
-            Join();
+            Console.OutputEncoding = Encoding.UTF8;
+
+            // Join();.
             Join2();
         }
     }

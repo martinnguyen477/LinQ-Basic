@@ -1,0 +1,17 @@
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.exe
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.exe
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.deps.json
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.runtimeconfig.json
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.runtimeconfig.dev.json
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.dll
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.pdb
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.dll
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.pdb
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.csprojAssemblyReference.cache
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.AssemblyInfoInputs.cache
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.AssemblyInfo.cs
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.csproj.CoreCompileInputs.cache
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.csproj.CopyComplete
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.dll
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.pdb
+F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.genruntimeconfig.cache

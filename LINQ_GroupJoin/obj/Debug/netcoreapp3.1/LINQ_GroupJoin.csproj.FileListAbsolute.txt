@@ -1,0 +1,13 @@
+F:\Project\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.exe
+F:\Project\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.deps.json
+F:\Project\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.runtimeconfig.json
+F:\Project\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.runtimeconfig.dev.json
+F:\Project\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.dll
+F:\Project\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.pdb
+F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.csprojAssemblyReference.cache
+F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.AssemblyInfoInputs.cache
+F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.AssemblyInfo.cs
+F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.csproj.CoreCompileInputs.cache
+F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.dll
+F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.pdb
+F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.genruntimeconfig.cache
