@@ -4,7 +4,7 @@ using System.Linq;
 namespace LINQ_Any_All_Contains
 {
     class Program
-    {
+    {                                                                                                                                                                                                                                                                                                                                                                           
         static void All()
         {
             int[] s = { 1, 3, 6, 2, 6, 2, 12, 8, 6, 3, 8, 34 };

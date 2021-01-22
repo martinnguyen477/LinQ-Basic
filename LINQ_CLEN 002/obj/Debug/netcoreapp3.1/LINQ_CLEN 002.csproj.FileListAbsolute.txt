@@ -11,3 +11,16 @@ C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_CLEN 002\obj\Debug\netcor
 C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.pdb
 C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.genruntimeconfig.cache
 C:\Users\Nguyen Quoc Cuong\source\repos\LINQ_CLEN\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.csprojAssemblyReference.cache
+F:\Project\LinQ-Basic\LINQ_CLEN 002\bin\Debug\netcoreapp3.1\LINQ_CLEN 002.exe
+F:\Project\LinQ-Basic\LINQ_CLEN 002\bin\Debug\netcoreapp3.1\LINQ_CLEN 002.deps.json
+F:\Project\LinQ-Basic\LINQ_CLEN 002\bin\Debug\netcoreapp3.1\LINQ_CLEN 002.runtimeconfig.json
+F:\Project\LinQ-Basic\LINQ_CLEN 002\bin\Debug\netcoreapp3.1\LINQ_CLEN 002.runtimeconfig.dev.json
+F:\Project\LinQ-Basic\LINQ_CLEN 002\bin\Debug\netcoreapp3.1\LINQ_CLEN 002.dll
+F:\Project\LinQ-Basic\LINQ_CLEN 002\bin\Debug\netcoreapp3.1\LINQ_CLEN 002.pdb
+F:\Project\LinQ-Basic\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.csprojAssemblyReference.cache
+F:\Project\LinQ-Basic\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.AssemblyInfoInputs.cache
+F:\Project\LinQ-Basic\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.AssemblyInfo.cs
+F:\Project\LinQ-Basic\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.csproj.CoreCompileInputs.cache
+F:\Project\LinQ-Basic\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.dll
+F:\Project\LinQ-Basic\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.pdb
+F:\Project\LinQ-Basic\LINQ_CLEN 002\obj\Debug\netcoreapp3.1\LINQ_CLEN 002.genruntimeconfig.cache

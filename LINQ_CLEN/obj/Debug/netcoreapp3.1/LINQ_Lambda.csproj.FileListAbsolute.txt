@@ -1,0 +1,13 @@
+F:\Project\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.exe
+F:\Project\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.deps.json
+F:\Project\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.runtimeconfig.json
+F:\Project\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.runtimeconfig.dev.json
+F:\Project\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.dll
+F:\Project\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.pdb
+F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.csprojAssemblyReference.cache
+F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.AssemblyInfoInputs.cache
+F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.AssemblyInfo.cs
+F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.csproj.CoreCompileInputs.cache
+F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.dll
+F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.pdb
+F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.genruntimeconfig.cache

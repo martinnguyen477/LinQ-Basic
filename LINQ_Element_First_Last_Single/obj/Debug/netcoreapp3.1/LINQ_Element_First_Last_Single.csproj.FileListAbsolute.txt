@@ -1,0 +1,12 @@
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.exe
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.deps.json
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.runtimeconfig.json
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.runtimeconfig.dev.json
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.dll
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.pdb
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.AssemblyInfoInputs.cache
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.AssemblyInfo.cs
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.csproj.CoreCompileInputs.cache
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.dll
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.pdb
+F:\Project\LinQ-Basic\LINQ_Element_First_Last_Single\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Single.genruntimeconfig.cache

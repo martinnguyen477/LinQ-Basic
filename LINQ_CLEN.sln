@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_GroupJoin", "LINQ_Grou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Select_SelectMany", "LINQ_Select_SelectMany\LINQ_Select_SelectMany.csproj", "{F70537C9-0935-4FA2-B2F6-6B32D7906A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Count", "LINQ_Count\LINQ_Count.csproj", "{F190AF4A-1CE6-4BAC-83EE-4FB009B4ED54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Count", "LINQ_Count\LINQ_Count.csproj", "{F190AF4A-1CE6-4BAC-83EE-4FB009B4ED54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Any_All_Contains", "LINQ_Any_All_Contains\LINQ_Any_All_Contains.csproj", "{D73AD814-9E30-432B-8670-FDD2B19142FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Any_All_Contains", "LINQ_Any_All_Contains\LINQ_Any_All_Contains.csproj", "{D73AD814-9E30-432B-8670-FDD2B19142FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Element_First_Last_Sin", "LINQ_Element_First_Last_Sin\LINQ_Element_First_Last_Sin.csproj", "{1B712AE9-20D4-4F9F-AEE3-030A9DB4437B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,10 @@ Global
 		{D73AD814-9E30-432B-8670-FDD2B19142FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D73AD814-9E30-432B-8670-FDD2B19142FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D73AD814-9E30-432B-8670-FDD2B19142FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B712AE9-20D4-4F9F-AEE3-030A9DB4437B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B712AE9-20D4-4F9F-AEE3-030A9DB4437B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B712AE9-20D4-4F9F-AEE3-030A9DB4437B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B712AE9-20D4-4F9F-AEE3-030A9DB4437B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
