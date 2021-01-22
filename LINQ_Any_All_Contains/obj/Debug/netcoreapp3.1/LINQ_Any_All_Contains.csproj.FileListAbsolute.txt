@@ -1,0 +1,12 @@
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.exe
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.deps.json
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.runtimeconfig.json
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.runtimeconfig.dev.json
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.dll
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.pdb
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.AssemblyInfoInputs.cache
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.AssemblyInfo.cs
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.csproj.CoreCompileInputs.cache
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.dll
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.pdb
+F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.genruntimeconfig.cache
