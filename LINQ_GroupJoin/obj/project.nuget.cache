@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qEX6wwXOf9xSucLaASgOTamAu1dfnZSVYhDEU3KfJFUvU8s/Rc5g9WqxBJaqRlPRDTZHYWQtVeOo+CEYQ1t9g==",
+  "dgSpecHash": "hU3puBIGHdl6ZKH39uf6H4TPu6iy5QmjU77M8r8Z0AFUTogg5YqP7DP51aoyk8A/A4vIOALBi+xzVKsHjIY9cw==",
   "success": true,
-  "projectFilePath": "F:\\Project\\LinQ-Basic\\LINQ_GroupJoin\\LINQ_GroupJoin.csproj",
+  "projectFilePath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_GroupJoin\\LINQ_GroupJoin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

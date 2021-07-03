@@ -1,0 +1,13 @@
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\bin\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\bin\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\bin\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\bin\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\bin\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\bin\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\obj\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\obj\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\obj\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\obj\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\obj\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\obj\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Join_Left_Right_Full\obj\Debug\netcoreapp3.1\LINQ_Join_Left_Right_Full.genruntimeconfig.cache

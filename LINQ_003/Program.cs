@@ -24,6 +24,7 @@ namespace LINQ_003
                          where s.Contains("Tutorial")
                          select s;
 
+            //var result1 = stringList.Where(s => s.Contains("Tutorial")).ToList();
             var result1 = stringList.Where(s => s.Contains("Tutorial")).ToList();
             foreach (var s in result)
             {

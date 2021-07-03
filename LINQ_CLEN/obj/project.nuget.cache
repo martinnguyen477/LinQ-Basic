@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ9+Y3zIE0PXtZIyYu9bn3SDHID/8zKkuVTao0ALdY/jfZCm32RsKmFW0n/cc8AY6mr+e/FDoZ1SD+nCwqv4Pg==",
+  "dgSpecHash": "RXUGm3vDCIByF5y41CE7MXD49IweBbdQybE7q1i7BzUZSYv84oLyix0uNssYzYhTtgKNMo0Y0kD1QIgPETJWIA==",
   "success": true,
-  "projectFilePath": "F:\\Project\\LinQ-Basic\\LINQ_CLEN\\LINQ_Lambda.csproj",
+  "projectFilePath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_CLEN\\LINQ_Lambda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

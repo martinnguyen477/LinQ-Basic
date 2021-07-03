@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj": {}
+    "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj": {}
   },
   "projects": {
-    "F:\\Project\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj": {
+    "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj",
+        "projectUniqueName": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj",
         "projectName": "LINQ_Any_All_Contains",
-        "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj",
+        "projectPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Any_All_Contains\\LINQ_Any_All_Contains.csproj",
         "packagesPath": "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\LinQ-Basic\\LINQ_Any_All_Contains\\obj\\",
+        "outputPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Any_All_Contains\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nguyen Quoc Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

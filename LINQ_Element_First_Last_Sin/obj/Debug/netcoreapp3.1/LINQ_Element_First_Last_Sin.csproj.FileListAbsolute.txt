@@ -10,3 +10,16 @@ F:\Project\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_E
 F:\Project\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.dll
 F:\Project\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.pdb
 F:\Project\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\bin\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Element_First_Last_Sin\obj\Debug\netcoreapp3.1\LINQ_Element_First_Last_Sin.genruntimeconfig.cache

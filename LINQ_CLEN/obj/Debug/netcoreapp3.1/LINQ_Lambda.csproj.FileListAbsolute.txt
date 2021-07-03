@@ -11,3 +11,16 @@ F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.csproj.CoreC
 F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.dll
 F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.pdb
 F:\Project\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\bin\Debug\netcoreapp3.1\LINQ_Lambda.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_CLEN\obj\Debug\netcoreapp3.1\LINQ_Lambda.genruntimeconfig.cache

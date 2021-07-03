@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_Select_SelectMany\\LINQ_Select_SelectMany.csproj",
+      "projectUniqueName": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Select_SelectMany\\LINQ_Select_SelectMany.csproj",
       "projectName": "LINQ_Select_SelectMany",
-      "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_Select_SelectMany\\LINQ_Select_SelectMany.csproj",
+      "projectPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Select_SelectMany\\LINQ_Select_SelectMany.csproj",
       "packagesPath": "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\LinQ-Basic\\LINQ_Select_SelectMany\\obj\\",
+      "outputPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_Select_SelectMany\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nguyen Quoc Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\Project\\LinQ-Basic\\LINQ_GroupJoin\\LINQ_GroupJoin.csproj": {
-              "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_GroupJoin\\LINQ_GroupJoin.csproj"
+            "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_GroupJoin\\LINQ_GroupJoin.csproj": {
+              "projectPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_GroupJoin\\LINQ_GroupJoin.csproj"
             }
           }
         }
@@ -120,7 +120,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

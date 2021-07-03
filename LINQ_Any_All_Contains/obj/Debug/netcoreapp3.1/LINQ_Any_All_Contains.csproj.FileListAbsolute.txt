@@ -10,3 +10,16 @@ F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All
 F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.dll
 F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.pdb
 F:\Project\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\bin\Debug\netcoreapp3.1\LINQ_Any_All_Contains.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Any_All_Contains\obj\Debug\netcoreapp3.1\LINQ_Any_All_Contains.genruntimeconfig.cache

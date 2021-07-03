@@ -15,3 +15,23 @@ F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select
 F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.dll
 F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.pdb
 F:\Project\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_Select_SelectMany.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.csproj.CopyComplete
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Select_SelectMany\obj\Debug\netcoreapp3.1\LINQ_Select_SelectMany.genruntimeconfig.cache

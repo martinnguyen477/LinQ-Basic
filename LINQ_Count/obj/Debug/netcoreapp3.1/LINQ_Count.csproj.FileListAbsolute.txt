@@ -10,3 +10,16 @@ F:\Project\LinQ-Basic\LINQ_Count\bin\Debug\netcoreapp3.1\LINQ_Count.pdb
 F:\Project\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.dll
 F:\Project\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.pdb
 F:\Project\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\bin\Debug\netcoreapp3.1\LINQ_Count.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\bin\Debug\netcoreapp3.1\LINQ_Count.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\bin\Debug\netcoreapp3.1\LINQ_Count.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\bin\Debug\netcoreapp3.1\LINQ_Count.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\bin\Debug\netcoreapp3.1\LINQ_Count.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\bin\Debug\netcoreapp3.1\LINQ_Count.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_Count\obj\Debug\netcoreapp3.1\LINQ_Count.genruntimeconfig.cache

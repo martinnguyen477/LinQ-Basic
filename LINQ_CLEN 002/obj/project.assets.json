@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_CLEN 002\\LINQ_CLEN 002.csproj",
+      "projectUniqueName": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_CLEN 002\\LINQ_CLEN 002.csproj",
       "projectName": "LINQ_CLEN 002",
-      "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_CLEN 002\\LINQ_CLEN 002.csproj",
+      "projectPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_CLEN 002\\LINQ_CLEN 002.csproj",
       "packagesPath": "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\LinQ-Basic\\LINQ_CLEN 002\\obj\\",
+      "outputPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_CLEN 002\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nguyen Quoc Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,7 +100,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

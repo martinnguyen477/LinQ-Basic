@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t3lrLJlRENORUuBhMWNwyxTqQ1NMMQBsN4Qc0gdNiejy+G4qopxQRh6GC6nNteaRek04qyBWLTOuL/OPSo1dtg==",
+  "dgSpecHash": "hJaQ87y+cDl0Dn3VybMYM5vy6lnCzibYXS2OlzsuCc4bElZcWcsPLazZoTsasvguXI9MckgEXISlSn5qcgqNTQ==",
   "success": true,
-  "projectFilePath": "F:\\Project\\LinQ-Basic\\LINQ_CLEN 002\\LINQ_CLEN 002.csproj",
+  "projectFilePath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_CLEN 002\\LINQ_CLEN 002.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

@@ -23,3 +23,16 @@ F:\Project\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.csproj.CoreCompi
 F:\Project\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.dll
 F:\Project\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.pdb
 F:\Project\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\bin\Debug\netcoreapp3.1\LINQ_003.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\bin\Debug\netcoreapp3.1\LINQ_003.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\bin\Debug\netcoreapp3.1\LINQ_003.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\bin\Debug\netcoreapp3.1\LINQ_003.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\bin\Debug\netcoreapp3.1\LINQ_003.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\bin\Debug\netcoreapp3.1\LINQ_003.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_003\obj\Debug\netcoreapp3.1\LINQ_003.csproj.AssemblyReference.cache

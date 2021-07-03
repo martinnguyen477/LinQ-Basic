@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj": {}
+    "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj": {}
   },
   "projects": {
-    "F:\\Project\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj": {
+    "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj",
+        "projectUniqueName": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj",
         "projectName": "LINQ_003",
-        "projectPath": "F:\\Project\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj",
+        "projectPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_003\\LINQ_003.csproj",
         "packagesPath": "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\LinQ-Basic\\LINQ_003\\obj\\",
+        "outputPath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\LinQ-Basic\\LINQ_003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nguyen Quoc Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

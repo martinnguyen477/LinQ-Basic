@@ -11,3 +11,15 @@ F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.cspr
 F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.dll
 F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.pdb
 F:\Project\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.genruntimeconfig.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.exe
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.deps.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.runtimeconfig.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.runtimeconfig.dev.json
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\bin\Debug\netcoreapp3.1\LINQ_GroupJoin.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.AssemblyInfo.cs
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.dll
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.pdb
+C:\Users\Nguyen Quoc Cuong\source\repos\LinQ-Basic\LINQ_GroupJoin\obj\Debug\netcoreapp3.1\LINQ_GroupJoin.genruntimeconfig.cache
